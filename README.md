@@ -13,4 +13,13 @@ Each problem is organized into a separate folder with the following structure:
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rahat100x/LeetCodeProblem/tree/master/0009-palindrome-number) |
+| [2083-three-divisors](https://github.com/Rahat100x/LeetCodeProblem/tree/master/2083-three-divisors) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Rahat100x/LeetCodeProblem/tree/master/2083-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Rahat100x/LeetCodeProblem/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
