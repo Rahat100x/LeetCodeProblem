@@ -12,6 +12,7 @@ Each problem is organized into a separate folder with the following structure:
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Rahat100x/LeetCodeProblem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Rahat100x/LeetCodeProblem/tree/master/0009-palindrome-number) |
 | [2083-three-divisors](https://github.com/Rahat100x/LeetCodeProblem/tree/master/2083-three-divisors) |
 ## Enumeration
