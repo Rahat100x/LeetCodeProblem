@@ -23,4 +23,12 @@ Each problem is organized into a separate folder with the following structure:
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Rahat100x/LeetCodeProblem/tree/master/2083-three-divisors) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Rahat100x/LeetCodeProblem/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Rahat100x/LeetCodeProblem/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
